@@ -1,4 +1,4 @@
-# basic-app-fire-ion3
+# Basic App using Firebase and Ionic v3
 Basic App with Firebase and Ionic 3
 
 # Overview
