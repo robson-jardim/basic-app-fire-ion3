@@ -1,5 +1,5 @@
-# Basic App using Firebase and Ionic v3
-Basic App with Firebase and Ionic 3
+# Core App using Firebase and Ionic v3
+Core App with Firebase and Ionic 3
 
 # Overview
 
